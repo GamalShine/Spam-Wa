@@ -1,5 +1,5 @@
 ## Filosofi
-Atas dedam pada para Haters, aku menciptakan script ini untuk menyerang mereka. SEKAMAT BERSENANG SENANG !!
+Atas dedam pada para Haters, aku menciptakan script ini untuk menyerang mereka. SELAMAT BERSENANG SENANG GUYS!!
 
 <h1 align="center">SPAM-WA</h1>
 
