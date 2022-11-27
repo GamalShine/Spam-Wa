@@ -11,7 +11,7 @@ Atas dedam pada para Haters, aku menciptakan script ini untuk menyerang mereka. 
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/GamalShine/brutal.git
+git clone https://github.com/GamalShine/Spam-Wa.git
 cd brutal
 pip install -r install.txt
 python brutal.py
@@ -22,7 +22,7 @@ python brutal.py
 apt update && apt upgrade
 apt install git -y
 apt install python3-pip
-git clone https://github.com/GamalShine/brutal.git
+git clone https://github.com/GamalShine/Spam-Wa.git
 cd brutal
 pip3 install -r install.txt
 python3 brutal.py
