@@ -22,7 +22,7 @@ python brutal.py
 apt update && apt upgrade
 apt install git -y
 apt install python3-pip
-git clone https://github.com/FatihArridho/brutal.git
+git clone https://github.com/GamalShine/brutal.git
 cd brutal
 pip3 install -r install.txt
 python3 brutal.py
