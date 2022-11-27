@@ -1,7 +1,6 @@
-## Filosofi
-Atas dedam pada para Haters, aku menciptakan script ini untuk menyerang mereka. SELAMAT BERSENANG SENANG GUYS!!
+##\tWELCOME\t
 
-![alt text](https://github.com/GamalShine/Spam-Wa/blob/master/ssan.png)
+![alt text](https://raw.githubusercontent.com/GamalShine/Spam-Wa/main/ssan.png)
 
 <h1 align="center">SPAM-WA</h1>
 
