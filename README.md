@@ -1,6 +1,8 @@
 ## Filosofi
 Atas dedam pada para Haters, aku menciptakan script ini untuk menyerang mereka. SELAMAT BERSENANG SENANG GUYS!!
 
+![alt text](https://github.com/GamalShine/Spam-Wa/blob/master/ssan.png)
+
 <h1 align="center">SPAM-WA</h1>
 
 ## Download TERMUX for Android
