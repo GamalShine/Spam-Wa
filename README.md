@@ -1,4 +1,3 @@
-##\tWELCOME\t
 
 ![alt text](https://raw.githubusercontent.com/GamalShine/Spam-Wa/main/ssan.png)
 
