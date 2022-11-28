@@ -12,7 +12,7 @@ apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
 git clone https://github.com/GamalShine/Spam-Wa.git
-cd brutal
+cd Spam-Wa
 pip install -r install.txt
 python brutal.py
 ```
@@ -23,13 +23,13 @@ apt update && apt upgrade
 apt install git -y
 apt install python3-pip
 git clone https://github.com/GamalShine/Spam-Wa.git
-cd brutal
+cd Spam-Wa
 pip3 install -r install.txt
 python3 brutal.py
 ```
 
 ## UPDATE SCRIPT
 ```bash
-cd brutal
+cd Spam-Wa
 git pull
 ```
