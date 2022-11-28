@@ -14,7 +14,7 @@ apt install python -y
 git clone https://github.com/GamalShine/Spam-Wa.git
 cd Spam-Wa
 pip install -r install.txt
-python brutal.py
+python spam_wa.py
 ```
 
 ## For LINUX User
@@ -24,8 +24,10 @@ apt install git -y
 apt install python3-pip
 git clone https://github.com/GamalShine/Spam-Wa.git
 cd Spam-Wa
-pip3 install -r install.txt
-python3 brutal.py
+pip3 install requests
+pip3 install colorama
+pip3 install mechanize
+python3 spam_wa.py
 ```
 
 ## UPDATE SCRIPT
