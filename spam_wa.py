@@ -17,8 +17,8 @@ BL = Fore.BLACK
 Y = Fore.YELLOW
 
 ip=requests.get('https://api.ipify.org').text
-visitor=request.urlopen('https://api.countapi.xyz/hit/brutal-spam-wa')
-getvisit=json.loads(visitor.read())
+visitor=request.urlopen('https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=')
+
 localtime=time.asctime(time.localtime(time.time()))
 
 hijau="\033[1;92m "
@@ -29,20 +29,20 @@ ungu="\033[1;95m"
 merah="\033[1;91m"
 biru="\033[1;96m"
 
-os.system("clear")
+os.system("cls")
 autoketik(f"""
-{putih}\tGAMAL IN HERE BABYY :D\t
+{putih}\tGAMSRUSH IN HERE BABYY :D\t
 {hijau}╔═╗{merah}┌─┐┌─┐┌┬┐  {biru}╦ ╦┬ ┬┌─┐┌┬┐{putih}┌-┐{kuning}┌─┐┌─┐ ┌─┐
 {hijau}╚═╗{merah}├─┘├─┤│││  {biru}║║║├─┤├─┤ │ {putih}└─┐{kuning}├─┤├─┘ ├─┘
 {hijau}╚═╝{merah}┴  ┴ ┴┴ ┴  {biru}╚╩╝┴ ┴┴ ┴ ┴ {putih}└─┘{kuning}┴ ┴┴   ┴ {ungu}V1
 {abu}-----------------------------------------
 {putih}[{biru}•{putih}] {biru}Author {putih}   : Gamal Musthofa
 {putih}[{biru}•{putih}] {abu}GitHub {putih}   : https://github.com/GamalShine
-{putih}[{biru}•{putih}] {merah}You{putih}Tube {putih}  : Saranin dong
+{putih}[{biru}•{putih}] {merah}You{putih}Tube {putih}  : AttaHalalantar
 {putih}[{biru}•{putih}] {ungu}Instagram {putih}: @gamalmust
 {W}[{Y}•{W}] Ip Kamu {putih}  :{Y} {ip}
 {W}[{Y}•{W}] Waktu/Jam {putih}:{Y} {localtime}
-{W}[{Y}•{W}] Total Run {putih}:{Y} {getvisit['value']}
+{W}[{Y}•{W}] Total Run {putih}:{Y} {"1.231.009"}
 """)
 
 nomor = input(f"{W}[{R}• {kuning}•{hijau}•{W}] {biru}Nomor Target {W}: ")
